@@ -1,0 +1,34 @@
+{
+  "name": "hmk-12-employee-tracker-local",
+  "version": "1.0.0",
+  "description": "Employee tracker",
+  "main": "index.js",
+  "dependencies": {
+    "asciiart-logo": "^0.2.6",
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctp7313/hmk-12-employee-tracker.git"
+  },
+  "keywords": [
+    "deep",
+    "space",
+    "nine",
+    "employee",
+    "tracker",
+    "homework"
+  ],
+  "author": "Chris Parker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctp7313/hmk-12-employee-tracker/issues"
+  },
+  "homepage": "https://github.com/ctp7313/hmk-12-employee-tracker#readme"
+}
